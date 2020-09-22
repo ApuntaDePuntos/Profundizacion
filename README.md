@@ -36,9 +36,10 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
 | CSS | CSS | CallBacks | Promesas | Testeo | 
-| xxx | xxx | xxx | xxx | xxx | 
-| xxx | xxx | xxx | xxx | xxx | 
-| Otra más | Otra más | Otra más | Otra más | Otra más |
+| A Complete guide to Flexbox | BEM for class naming | xxx | xxx | Jest docs | 
+| Interactive flexbox game | Estructura con CSS | xxx | xxx | Testing Asynchronous Code with Jest | 
+| A fun game to learn and practice CSS selectors. | Estructura con CSS | Otra más | Otra más | Otra más |
+
 
 
 ## Recursos
