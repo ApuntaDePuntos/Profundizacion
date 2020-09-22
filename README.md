@@ -9,20 +9,22 @@ Este repositorio será tu herramienta principal para el registro de actividades 
 Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqueantes, trata de no elegir demasiados para poder planear y dedicarle el tiempo necesario a cada uno.
 
 ----
+#### CSS 
+* [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
+* [ ] [Uso de flexbox en CSS.](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 #### JavaScript
-    
+* [ ] [Uso de callbacks.](https://developer.mozilla.org/es/docs/Glossary/Callback_function)
+* [x] [Consumo de Promesas.](https://scotch.io/tutorials/javascript-promises-for-dummies#toc-consuming-promises)
 - [ ] Promesas:
     - Actividades a desarrollar:
-        * Asistir a charla con Lupo sobre promesas (02/09)
-        * Apoyar a un equipo 
     - Actividad final: Generar un ejercicio en el [repo.](https://github.com/dapino/daily-js) 
 
 #### Test
     
-- [ ] Mocks con librerías y manuales:
+* [ ] [Testeo asíncrono.](https://jestjs.io/docs/es-ES/asynchronous)
+* [ ] [Uso de librerias de Mock.](https://jestjs.io/docs/es-ES/manual-mocks)
     - Actividades a desarrollar:
-        * Realizar test SN
     - Actividad final: Lightning Talk sobre mocks con librerías. 
     
 ----
@@ -33,8 +35,9 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 
 | Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
 | - | - | - | - | - | 
-| Actividad | Actividad | Actividad | Actividad | Actividad | 
-| Otra actividad | Otra actividad | Otra actividad | Otra actividad | Otra actividad | 
+| CSS | CSS | CallBacks | Promesas | Testeo | 
+| xxx | xxx | xxx | xxx | xxx | 
+| xxx | xxx | xxx | xxx | xxx | 
 | Otra más | Otra más | Otra más | Otra más | Otra más |
 
 
